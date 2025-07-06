@@ -9,8 +9,8 @@ A machine learning pipeline for  categorizing news articles into multiple catego
 ## API Usage
 
 Classify text via API:
-```bash
-curl "http://107.23.11.29/categorize?txt=[How is the weather today]"
+```
+http://107.23.11.29/categorize?txt=[How is the weather today]
 ```
 
 Response format (Sample):
